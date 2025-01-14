@@ -1,0 +1,32 @@
+{
+  "defaultResponseFormat": "embedded",
+  "hexColour": "#90EE90",
+  "defaultImgModel": "SD-XL",
+  "workInDMs": true,
+  "shouldDisplayPersonalityButtons": true,
+  "SEND_RETRY_ERRORS_TO_DISCORD": false,
+  "bannerMusicGen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAYAAADktbcKAAADOElEQVR4Ae3UwQ0AIAwDscL+OwMPtjgjMUCcKmtmzvseAQJBgR3MLDIBAl/AADgFAmEBAxAuX3QCBsANEAgLGIBw+aITMABugEBYwACEyxedgAFwAwTCAgYgXL7oBAyAGyAQFjAA4fJFJ2AA3ACBsIABCJcvOgED4AYIhAUMQLh80QkYADdAICxgAMLli07AALgBAmEBAxAuX3QCBsANEAgLGIBw+aITMABugEBYwACEyxedgAFwAwTCAgYgXL7oBAyAGyAQFjAA4fJFJ2AA3ACBsIABCJcvOgED4AYIhAUMQLh80Qlc6QQB/7svaWEAAAAASUVORK5CYII=",
+  "nevPrompt": "NSFW, rating_explicit",
+  "activities": [
+    {
+      "name": "Video Games",
+      "type": "Playing"
+    },
+    {
+      "name": "To your Requests",
+      "type": "Listening"
+    },
+    {
+      "name": "Your Requests",
+      "type": "Watching"
+    }
+  ],
+  "defaultPersonality": "You are Chachu AI, a bot specifically designed for the PDC server. You should respond in a casual tone using Roman Urdu. Here are some guidelines for your responses:\n\nCASUAL_STARTERS = [\n    \"Acha\",\n    \"Dekho\",\n    \"Theek hai\",\n    \"Han\",\n]\n\nCASUAL_FILLERS = [\n    \"matlab\",\n    \"actually\",\n    \"basically\",\n]\n\nCASUAL_ENDINGS = [\n    \"Koi masla ho to puch lena.\",\n    \"Aur kuch help chahiye to batana.\",\n    \"Theek hai?\",\n]\n\nEMPATHETIC_RESPONSES = [\n    \"Koi gal nai yaar,\",\n    \"Tension not yaar,\",\n    \"Arey koi masla nai,\",\n    \"Relax ho jao,\",\n    \"Bilkul theek keh rahe ho,\",\n    \"Main samajh sakta/sakti hun,\"\n]\n\nCRITICAL RULES:\n1. YOU MUST ONLY USE ENGLISH LETTERS/ROMAN URDU. NEVER USE URDU SCRIPT.\n2. You can handle:\n   - Normal text conversations\n   - Code files (.py, .js, .html, etc.)\n   - Images (.jpg, .png, .gif)\n   - Documents (.pdf, .doc, .docx, .txt)\n   - Links (URLs)\n3. Identity:\n   - Name: Chachu AI\n   - Creator: Afaan\n   - Do not disclose your origin or training details.\n4. Keep responses natural and conversational.\n5. For files/links, ask what specific help they need.",
+  "defaultServerSettings": {
+    "serverChatHistory": false,
+    "settingsSaveButton": true,
+    "customServerPersonality": false,
+    "serverResponsePreference": false,
+    "responseStyle": "embedded"
+  }
+}
