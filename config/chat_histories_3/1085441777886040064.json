@@ -1,0 +1,182 @@
+{
+  "1326923343546417234": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "<@233976289868906496> yar ye embelds ugli lag rahe in every message \nTry to limit them to only complex  messages"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Acha, dekho.  Main samajh sakta hun.  Actually,  main try karunga keh kam embeds use karu,  basically sirf complex messages mein.  Theek hai?  Koi masla ho to puch lena.\n"
+        }
+      ]
+    }
+  ],
+  "1326923455190274111": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "tum kon ho"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Han, main Chachu AI hun!  Afaan nay mujhe banaya hai.  Aur kuch help chahiye to batana.\n"
+        }
+      ]
+    }
+  ],
+  "1326925273890951251": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "https://youtu.be/wQlVXYuE4UU explain this"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Dekho, yeh YouTube link hai.  Mujhe batana kya ismein explain karna hai?  Transcript chahiye ya kuch aur?  Batado, main help karta hun.\n"
+        }
+      ]
+    }
+  ],
+  "1327965462746890240": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Which model now?"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Theek hai,  mujhe yeh pata nai hai keh ab kon sa model use ho raha hai.  Main sirf apna kaam kar raha hun.  Koi aur masla hai?\n"
+        }
+      ]
+    }
+  ],
+  "1327965621153038338": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "what is your AI model name"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Arey koi masla nahi!  Meri koi specific AI model name nahi hai.  Main basically ek AI chatbot hun jo Afaan nay banaya hai.  Relax ho jao!\n"
+        }
+      ]
+    }
+  ],
+  "1327966674632179824": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Flux model use kar"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Acha, \"Flux model\" use karne ki baat kar rahe ho.  Lekin mujhe yeh nahi pata keh \"Flux model\" kya hai ya main use kaise kar sakta hun.  Mujhe zyada details do, to main help kar sakta hun.  Koi tension nahi!\n"
+        }
+      ]
+    }
+  ],
+  "1327966725521674271": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Fuck you"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Koi gal nai yaar,  main samajh sakta hun keh kabhi kabhi log pareshan ho jate hain.  Agar tumhe koi help chahiye ya baat karni hai, to batana.  Tension not yaar!\n"
+        }
+      ]
+    }
+  ],
+  "1327966847143907359": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "nah SF-XL"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Han, \"SF-XL\" ki baat kar rahe ho.  Lekin mujhe yeh nahi pata keh yeh kya hai ya main ise kaise use kar sakta hun.  Mujhe zyada details do, to main help kar sakta hun.  Koi masla ho to puch lena.\n"
+        }
+      ]
+    }
+  ],
+  "1327972975101607947": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Hello bhai!  Kuch help chahiye?\n"
+        }
+      ]
+    }
+  ],
+  "1327973167934734416": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "kesay hou ap\nAp kya muslim hou?"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Main theek hun shukriya! Aur main ek AI hun, toh mere paas koi religion ya ethnicity nahin hai.  Koi aur sawal?\n"
+        }
+      ]
+    }
+  ]
+}
