@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Local configurations
+.env
+config/config.json
